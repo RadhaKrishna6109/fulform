@@ -1,0 +1,33 @@
+label{
+    display: block;
+    padding: 10px;
+}
+form{
+    text-align: center;
+    background-image:url('https://img.freepik.com/premium-vector/pink-flower-background-with-watercolor-effect_664601-2866.jpg?w=2000') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 3px;
+
+}
+h1{
+    text-align: center;
+}
+#submit{
+    padding: 10px;
+}
+input[type=submit]{
+    background-color: rgb(49, 213, 199);
+}
+input[type=submit]:hover{
+    background-color:rgb(164, 211, 62);
+}
+.siva{
+    display: flex;
+}
+.rk{
+    margin-left: 500px;
+}
+.kittu{
+    margin-left: 50px;
+}
